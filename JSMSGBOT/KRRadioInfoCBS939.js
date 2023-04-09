@@ -34,7 +34,7 @@ function response(room, msg, sender, isGroupChat, replier, imageDB, packageName)
     proginfo939="아름다운 클래식 선율에 흐르는 아침의 여유와 편안한 휴식";
   }
   else if (hour==4 || hour==5){
-    progname939="이명희의 내가 매일 기쁘게 (JOU4U)";
+    progname939="이명희의 내가 매일 기쁘게 (JOY4U)";
     proginfo939="영혼을 울리는 찬양으로 크리스천의 아침을 여는 프로그램";
   }
   else if (hour==6){
